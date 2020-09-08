@@ -2,127 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a82ffba4-1046-463e-bc7f-7c2d81943e1d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentynineteen-ru_RU.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentynineteen-ru_RU.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentyseventeen-ru_RU.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentyseventeen-ru_RU.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentysixteen-et.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentysixteen-et.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentysixteen-ru_RU.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentysixteen-ru_RU.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentytwenty-ru_RU.mo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/languages/themes/twentytwenty-ru_RU.po" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/noortek/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/noortek/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/noortek/.idea/noortek.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/noortek/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/noortek/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room1-1-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room1-1-300x199.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room1-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room2-1-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room2-1-300x200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room2-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room3-1-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room3-1-300x200.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2020/08/room3-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/2020/08/24/hello-world/feed/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/2020/08/24/hello-world/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking-equipment/helitehnika/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking-equipment/pop-up-telk-4x6/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking-equipment/projektor-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking-equipment/sulearvuti/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking-room/loengusaal-nr-9-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking-room/loengusaali-nr-11-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking-room/tantsusaal-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking/broneering-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking/broneering-3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking/broneering-4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking/broneering-5/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/booking/broneering/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/2020/08/24/hello-world/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking-equipment/helitehnika/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking-equipment/pop-up-telk-4x6/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking-equipment/projektor-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking-equipment/sulearvuti/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking-room/loengusaal-nr-9-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking-room/loengusaali-nr-11-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking-room/tantsusaal-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking/broneering-2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking/broneering-3/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking/broneering-4/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking/broneering-5/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/booking/broneering/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/booking-equipment/projektor/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/booking-equipment/звуковое-оборудование/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/booking-equipment/ноутбук/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/booking-equipment/палатки-4х6/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/booking-room/loengusaal-nr-9/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/booking-room/loengusaali-nr-11/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/booking-room/tantsusaal/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/аренда-помещений/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ru/главная/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/ruumide-rent/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/noortek/tootajad/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/booking-equipment/projektor/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/booking-equipment/звуковое-оборудование/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/booking-equipment/ноутбук/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/booking-equipment/палатки-4х6/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/booking-room/loengusaal-nr-9/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/booking-room/loengusaali-nr-11/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/booking-room/tantsusaal/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/аренда-помещений/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ru/главная/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/ruumide-rent/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/sitemap.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/tootajad/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/bootstrap-timepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/datepicker.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/css/all.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fontawesome/webfonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/fullcalendar.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/scheduler.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/smart_wizard.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/css/smart_wizard_theme_arrows.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/images/spinning-circles.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/bootstrap-timepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/bootstrap.bundle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/datepicker.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/fullcalendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/jquery-3.3.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/jquery.mask.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/jquery.smartWizard.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/jquery.validate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/js/scheduler.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/themes/noortek/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/uploads/2020/08/room1-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/uploads/2020/08/room2-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-content/uploads/2020/08/room3-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-includes/css/dist/block-library/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-includes/js/dist/vendor/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-includes/js/imagesloaded.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/static-html-output/wp-includes/js/masonry.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/noortek/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/noortek/functions.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,13 +20,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/noortek/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="467">
+              <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bookingTabRoomAndDateLabelDate</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -154,11 +39,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/wp-content/themes/class-wp-bootstrap-navwalker.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/noortek/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/noortek/functions.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -187,6 +74,12 @@
               <item name="noortek-booking" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="C:\xampp\htdocs\noortek-booking" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="wp-content" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="plugins" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="noortek-booking" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\xampp\htdocs\noortek-booking" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="wp-content" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -206,9 +99,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\noortek-booking\wp-content\themes\noortek" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -232,15 +136,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599561273760</updated>
-      <workItem from="1599561275185" duration="698000" />
+      <workItem from="1599561275185" duration="2688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="698000" />
+    <option name="totallyTimeSpent" value="2688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -249,7 +154,7 @@
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -272,10 +177,48 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/noortek/class-wp-bootstrap-navwalker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1861">
+          <caret line="554" column="1" selection-start-line="554" selection-start-column="1" selection-end-line="554" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#77#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/noortek/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/noortek/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/noortek/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/noortek/views/booking.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="88" column="29" lean-forward="true" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/noortek/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="467">
+          <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
         </state>
       </provider>
     </entry>
