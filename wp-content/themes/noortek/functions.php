@@ -40,7 +40,7 @@ class NoortekWPTheme {
 		wp_enqueue_style( 'font-awesome', get_theme_file_uri() . '/css/fontawesome/css/all.min.css' );
 		wp_enqueue_style( 'fullcalendar', get_theme_file_uri() . '/css/fullcalendar.min.css' );
 		wp_enqueue_style( 'fullcalendarscheduler', get_theme_file_uri() . '/css/scheduler.min.css' );
-		wp_enqueue_style( 'style', get_theme_file_uri() . './style.css' );
+		wp_enqueue_style( 'style', get_theme_file_uri() . '/style.css' );
 	}
 
 	function register_scripts() {
@@ -59,7 +59,7 @@ class NoortekWPTheme {
 		wp_enqueue_script( 'mask', get_theme_file_uri() . '/js/import/jquery.mask.min.js', false, 1, true );
 
 		if ( true ) {
-			wp_enqueue_script( 'index-page', get_theme_file_uri() . './js/index.js', false, 1, true );
+			wp_enqueue_script( 'index-page', get_theme_file_uri() . '/js/index.js', false, 1, true );
 		}
 	}
 
