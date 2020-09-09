@@ -1,7 +1,8 @@
 <header>
     <div class="container">
         <div class="header-content">
-                <div class="header-logo">
+            <div class="header-logo">
+                <a href="./" class="header-logo__link">
                     <div class="header-logo__image">
                         <img src="
                         <?php echo get_stylesheet_directory_uri(); ?>/images/logos/nnk-logo.png" alt="">
@@ -12,7 +13,8 @@
                         </div>
                         <span class="header-logo__title-sub">Ida-Virumaa noorteportaal</span>
                     </div>
-                </div>
+                </a>
+            </div>
             <div class="header-right-side">
                 <div class="header-language-switch">
                     <ul class="languages">

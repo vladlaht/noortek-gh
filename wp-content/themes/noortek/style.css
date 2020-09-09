@@ -122,6 +122,9 @@ header .container {
     width: 440px;
     height: 120px;
     padding: 5px;
+}
+
+.header-logo .header-logo__link {
     display: flex;
 }
 
